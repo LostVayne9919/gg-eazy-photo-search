@@ -3,7 +3,9 @@
 **Find a photo by describing the moment, not by guessing keywords or dates.**
 NextLeap Product Manager Fellowship project · Oct 2026
 
-🔗 **[Try the MVP chat](ADD-YOUR-N8N-CHAT-LINK)** · **[Design preview (Lovable)](ADD-YOUR-LOVABLE-LINK)** · **[Full deck (PDF)](NL_GGEAZY.pdf)**
+🔗 **[Full deck with MVP screens (PDF)](NL_GGEAZY.pdf)**
+
+> The live MVP (n8n) and Lovable design preview were hosted on free trials and are now offline. Screens and test chats from the MVP are in the deck.
 
 ---
 
@@ -43,7 +45,7 @@ The chat asks one short question at a time about what's missing, and you can say
 - It remembers the conversation, so follow-up replies narrow the results.
 - It handles stories, follow-up questions and Hinglish.
 - Photos come from Unsplash, because Google closed full-library API access in March 2025. The next step is real photos through Google's Picker API.
-- A UI prototype was designed in Lovable.
+- A UI prototype was designed in Lovable (design only, styled like the Google Photos app).
 
 ## Tests and next steps
 
