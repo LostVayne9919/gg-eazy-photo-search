@@ -3,7 +3,7 @@
 **Find a photo by describing the moment, not by guessing keywords or dates.**
 NextLeap Product Manager Fellowship project · Oct 2026
 
-🔗 **[Full deck with MVP screens (PDF)](NL_GGEAZY.pdf)**
+🔗 **[Full deck with MVP screens (PDF)](https://drive.google.com/file/d/1t180Zb8HLk6LrGdIrSTBBan3nzNbqh1H/view?usp=sharing)**
 
 > The live MVP (n8n) and Lovable design preview were hosted on free trials and are now offline. Screens and test chats from the MVP are in the deck.
 
